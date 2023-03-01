@@ -1,0 +1,10 @@
+{
+  "name": "sponsors",
+  "private": true,
+  "scripts": {
+    "build": "sponsorkit"
+  },
+  "devDependencies": {
+    "sponsorkit": "^0.8.2"
+  }
+}
