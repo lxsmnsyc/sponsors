@@ -1,4 +1,4 @@
-import { defineConfig, presets } from 'sponsorkit';
+import { defineConfig, tierPresets } from 'sponsorkit';
 
 
 // from: https://www.solidjs.com/media
@@ -86,7 +86,7 @@ export default defineConfig({
     {
       title: 'Past Sponsors',
       monthlyDollars: -1,
-      preset: presets.xs,
+      preset: tierPresets.xs,
     },
     {
       title: 'Backers',
@@ -94,7 +94,7 @@ export default defineConfig({
     {
       title: 'Sponsors',
       monthlyDollars: 10,
-      preset: presets.medium,
+      preset: tierPresets.medium,
     },
     {
       title: 'Special',

@@ -5,6 +5,11 @@
     "build": "sponsorkit --dir=."
   },
   "devDependencies": {
-    "sponsorkit": "^0.8.2"
+    "sponsorkit": "^16.4.2"
+  },
+  "pnpm": {
+    "onlyBuiltDependencies": [
+      "sharp"
+    ]
   }
 }
