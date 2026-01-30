@@ -11066,7 +11066,7 @@
       }
     },
     "isOneTime": false,
-    "monthlyDollars": 5,
+    "monthlyDollars": -1,
     "privacyLevel": "PUBLIC",
     "tierName": "$5 a month",
     "createdAt": "2022-08-17T16:11:14Z",
